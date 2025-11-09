@@ -30,7 +30,7 @@ export default function HeroSection() {
   }));
 
   return (
-    <section className="relative min-h-screen flex items-center justify-center overflow-hidden bg-linear-to-br from-gray-900 via-gray-900 to-gray-950 px-4 py-16 pt-32">
+    <section className="relative min-h-screen lg:pt-48 flex items-center justify-center overflow-hidden bg-linear-to-br from-gray-900 via-gray-900 to-gray-950 px-4 py-16 pt-32">
       {/* Animated Background */}
       <div className="absolute inset-0">
         <Image
